@@ -1,9 +1,14 @@
 .entry1 {
   color: purple;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
 }
 
 .entry2 {
   color: purple;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 .about{
   text-align: center;
